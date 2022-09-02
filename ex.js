@@ -11,4 +11,5 @@ button.addEventListener('click', () => {
     else {
         document.querySelector('#message').innerHTML = 'Usuário ou senha inválidos';
     }
+    
 });
